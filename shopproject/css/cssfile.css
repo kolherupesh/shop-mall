@@ -1,0 +1,25 @@
+body{
+    background:url("../images/shopphoto.jpg")
+        no-repeat center center fixed;
+    background-size: cover
+    
+}
+div{
+
+    color:yellow;
+    background-color:lightgreen;
+    width: 60%;
+        margin:120px auto;
+    text-align:center;
+    border-radius: 50px
+}
+button{
+    background:orange;
+    padding: 5px;
+    margin-bottom: 12px;
+font-size: 2em;
+    border-radius:10px;
+    
+    
+   
+}
