@@ -7,8 +7,9 @@ body{
 div{
 
     color:yellow;
-    background-color:lightgreen;
+    background-color:lightgray;
     width: 60%;
+
         margin:120px auto;
     text-align:center;
     border-radius: 50px
